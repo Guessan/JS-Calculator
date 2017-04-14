@@ -12,26 +12,26 @@ document.addEventListener("DOMContentLoaded", function(){
 
 function addition(){
 	result = +num1.value + +num2.value;
-	res.value = results;
+	res.value = result;
 	//console.log(res.value);
 	//var math = 7 + 7;
 	//console.log(math);
 };
 function subtraction(){
 	//result = +num1.value - +num2.value;
-	//res.value = results;
+	//res.value = result;
 	//console.log("Let's subtract");
 	//console.log(7 - 7);
 };
 function multiplication(){
 	//result = +num1.value * +num2.value;
-	//res.value = results;
+	//res.value = result;
 	//console.log("Let's multiply");
 	//console.log(7 * 7);
 };
 function division(){
 	//result = +num1.value / +num2.value;
-	//res.value = results;
+	//res.value = result;
 	//console.log("Let's divide");
 	//console.log(7 / 7);
 };

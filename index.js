@@ -22,16 +22,16 @@ function subtraction(){
 	//res.value = results;
 	//console.log("Let's subtract");
 	//console.log(7 - 7);
-}
+};
 function multiplication(){
 	results = +num1.value * +num2.value
 	//res.value = results;
 	//console.log("Let's multiply");
 	console.log(7 * 7);
-}
+};
 function division(){
 	results = +num1.value / +num2.value
 	//res.value = results;
 	//console.log("Let's divide");
 	//console.log(7 / 7);
-}
+};

@@ -1,12 +1,12 @@
 var num1;
 var num2;
 var res;
-var results;
+var result;
 
 document.addEventListener("DOMContentLoaded", function(){
 	num1 = document.getElementById("num1");
 	num2 = document.getElementById("num2");
-	res = document.getElementById("results");
+	res = document.getElementById("result");
 });
 
 

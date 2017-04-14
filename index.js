@@ -13,10 +13,10 @@ document.addEventListener("DOMContentLoaded", function(){
 function addition(){
 	results = +num1.value + +num2.value
 	res.value = results;
-	//console.log("Let's add");
+	console.log(res.value);
 	//var math = 7 + 7;
 	//console.log(math);
-}
+};
 function subtraction(){
 	results = +num1.value - +num2.value
 	//res.value = results;
